@@ -1,0 +1,11 @@
+To install prerequisite libararies on Ubuntu machine:
+  sudo apt-get install libblas-dev liblapack-dev gfortran g++ gnuplot gv
+
+To compile: 
+  make
+
+To run:
+ ./stateout
+
+To run and plot the example:
+ bash example.sh
